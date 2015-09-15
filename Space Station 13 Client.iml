@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Projects/Libraries/lwjgl/jar/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Libraries/LWJGL/jar/lwjgl.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Projects/Libraries/commons-io-2.4/commons-io-2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Libraries/commons-io-2.4/commons-io-2.4.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Projects/Libraries/gson-2.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Libraries/GSON/gson-2.3.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -37,7 +37,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Projects/Libraries/rock-util1.3_01.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Libraries/Rock-Util/rock-util1.3_01.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
